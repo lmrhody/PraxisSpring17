@@ -11,7 +11,7 @@ MALS 75500 | IDS 81640
 
 - <lrhody@gc.cuny.edu>
 - [@lmrhody](https://twitter.com/lmrhody)
-- Office hours: Wednesday 3:15 - 4:15
+- Office hours: Wednesday 3:15 - 4:15 | Room 3300.07
 
 **Course blog: <https://dhpraxis16.commons.gc.cuny.edu/>**
 
