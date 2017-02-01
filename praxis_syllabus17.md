@@ -14,8 +14,11 @@ MALS 75500 | IDS 81640
 - Office hours: Wednesday 3:15 - 4:15
 
 **Course blog: <https://dhpraxis16.commons.gc.cuny.edu/>**
+
 **Course group: <https://commons.gc.cuny.edu/groups/digital-praxis-seminar-2016-2017/>**
+
 **Course hastag: #dhpraxis**
+
 **Course repository: <https://github.com/lmrhody/PraxisSpring17/>**
 
 * * * * * 
