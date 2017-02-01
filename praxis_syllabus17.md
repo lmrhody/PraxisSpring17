@@ -232,7 +232,7 @@ Project launch dress rehearsal.
 Week 15 | May 17
 ---------------------
 
-Public project launch.
+**Public project launch at the GC Digital Showcase.**
 
 Week 16 | May 24
 ----------------------
