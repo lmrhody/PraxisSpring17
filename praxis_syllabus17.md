@@ -41,17 +41,17 @@ Learning Objectives
 
 Students will...
 - plan and produce a digital humanities project that includes a revised proposal, data management plan, prototype, and scholarly outreach;
-- develop scholarly collaboration skills (ie leadership, negotiation, conflict resolution) by working with a peer cohort to produce their project;
-- articulate their individual scholarly contribution to the cohort's collective effort;
-- document and reflect upon their progress through personal and team-based lab journals and public blogging on our course site.
-- learn how to develop new skills independently.
+- develop scholarly collaboration skills (ie leadership, consensus building, joint evaluation, resource sharing) by working with a peer cohort to produce group project prototypes;
+- describe individual scholarly contributions to the cohort's collective effort;
+- justify key technical, scholarly, and interpersonal decisions through team-based lab journals, public blogging on our course site, and oral presentations;
+- identify and aquire necessary new skills independently.
 
 Requirements and Structure
 ----------------------------
 
 **Weekly Class Sessions**
 
-This is a praxis-based course, so most of our class sessions will be devoted to team meetings, project work, informal and formal presentations, and consultations with Graduate Center Digital Fellows. Weekly readings may be assigned based on need. Students are expected to be working every week on their projects and project plans.
+This is a praxis-based course, so most of our class sessions will be devoted to team meetings, project work, informal and formal presentations, and consultations with Graduate Center Digital Fellows. Weekly readings will be assign on an as-needed basis. Students are expected to be working independently and collaboratively every week on their projects and project plans.
 
 **Progress Reports and Social Media Presence**
 
@@ -61,16 +61,16 @@ Each team should also create a social media presence for their projects and use 
 
 **Individual Lab Journals**
 
-Each student will keep an individual journal that should be used to catalogue weekly activities and progress, explore sticky questions, share personal reflections, and work through problems. Journals can be posted publicly to the course blog or kept privately. They should be shared with Prof. Wythoff every week and are *due by midnight, Sunday.*
+Each student will keep an individual journal that should be used to catalogue weekly activities and progress, explore sticky questions, share personal reflections, and work through problems. Journals can be posted publicly to the course blog or kept privately. They should be shared with Prof. Rhody every week and are *due by midnight, Sunday.*
 
-You must let Prof. Wythoff know where you will be keeping your journal by midnight, February 15th, when your first post is due.
+You must let Prof. Rhody know where you will be keeping your journal by midnight, February 8th, when your first post is due.
 
 
 **Project Requirements**
 
 - Projects should relate to the digital humanities as explored through the Fall semester.
-- Project plans should address all aspects of the project life cycle, from development to deployment to testing to launch to sustainability.  
-- Projects must be public and project code must be open source and accessible online.
+- Project plans should address all aspects of the project life cycle, from development to deployment to testing to launch to sustainability. 
+- Projects must be made publicly available and project code must be open source and accessible online.
 - All code must be logically organized and clearly documented.
 - A prototype of the project must be realized by the end of the semester.
 - Projects will be launched publicly at the final class of the year.
@@ -93,54 +93,75 @@ To be determined based on project needs and in-class discussion.
 
 # <a name="schedule"></a>Schedule
 
-Week 1 | February 2
+Week 1 | February 1
 ---------------------
 
 In class: Welcome, introductions, logistics, role definition, project discussions.  Presentation from GC Digital Fellows on productive sessions during office hours.
 
-- [**Agenda and notes**](https://github.com/gwijthoff/Praxis/blob/master/notes/week1.md)
 
-February 9
+Week 2 | February 8
 ------------
+Due: 
+- Attend at least one event at [**NYCDH Week**](http://dhweek.nycdh.org/), taking place around the city.
+- Post draft project proposals to couse blog by midnight Monday, February 6 
 
-**NO CLASS** on Tuesday, February 9: College closed.  Attend at least one event at [**NYCDH Week**](http://dhweek.nycdh.org/), taking place around the city.
+Guest instructor: Jason Rhody  
+In class: Evaluating and refining project proposals. Prepare to workshop project proposals on blog in light of the following articles.
+- [NEH Proposal Evaluation Process](https://www.neh.gov/grants/application-process)
+- [Evaluating Collaborative Digital Scholarship (or, Where Credit is Due)](http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/) by Bethany Nowviskie
+- [How to Evaluate Digital Scholarship](http://journalofdigitalhumanities.org/1-4/how-to-evaluate-digital-scholarship-by-todd-presner/)
+- [Short Guide to Evaluation of Digital Work](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
 
-Week 2 | February 16
+
+No Class| February 15
 ---------------------
 
-Due midnight sunday: Individual project abstracts.
+Due midnight: blog post with revised project proposals and/or reflections on digital project evaluation criteria
+- Recommended: **GitHub Workshop** 6:30-8:30; [Register in advance](https://www.eventbrite.com/e/github-tickets-31587204178)
 
-In class: Elevator pitches, selection, team formation, and preliminary planning.
 
-Week 3 | February 23
+
+Week 3 | February 22
 ---------------------
 
-Due midnight Sunday: Draft project plans, personal journals. 
+Due midnight Sunday: rank project proposals, personal journal entries. 
 
-In class: Role meetings.
+In class: Project results, group formation, group roles, and collaborator agreement.
+By the end of this class period, you should have a list of group members, responsibilities, and an agreement for modes of communication and meeting deadlines.
+
+Read/watch: 
+- [One Week | One Tool](http://oneweekonetool.org/)
+- [And so it begins: day two of OWOT](http://openobjects.blogspot.com/2013/07/and-so-it-begins-day-two-of-owot.html)
+- [Day 3 of OWOT: Of Names and Stories and Gophers](http://www.briancroxall.net/2013/08/01/day-3-of-owot-of-names-and-stories-and-gophers/)
+- [OWOT, day 4.](https://amrys.wordpress.com/2013/07/31/owot-day-4/)
+- [Final Refelctions from One Week One Tool: The Blur of Days 4-5](http://commons.trincoll.edu/jackdougherty/category/one-week-one-tool/)
 
 Week 4 | March 1
 ---------------------
 
 Due midnight Sunday: Group project update posted to Commons blog or your project blog, personal journals.
 
-In class: Collaborative project work and consultation.
+In class: Identifying existing resources and project needs. Create actionable steps to fill project gaps. 
 
-Project presentations:
+Project presentations: All projects.
+
 
 Week 5 | March 8
 ---------------------
 
-Due midnight Sunday: Group blog + journal entries.
+Due midnight Sunday: Group blog post on selected platform, technology, and/or dataset choices + journal entries.
 
-In class: Collaborative project work and consultation.
+In class: Collaborative group work. Data management, storage, and sharing practices. 
+- [NEH sample data management plans](https://www.neh.gov/divisions/odh/grant-news/data-management-plans-successful-grant-applications-2011-2014-now-available)
+- [Data Management Planning Tool](https://dmptool.org/)
 
-Project presentations:
+Project presentations: All projects.
+
 
 Week 6 | March 15
 ---------------------
 
-Due midnight Sunday: Group blog + journal entries.
+Due midnight Sunday: Group blog data management plan draft + journal entries.
 
 In class: Collaborative project work and consultation.
 
@@ -211,6 +232,6 @@ Public project launch.
 Acknowledgements
 =================
 
-Thanks to [Matt Gold](https://github.com/mkgold), [Kevin L. Ferguson](https://github.com/klferguson/), [Amanda Hickman](https://github.com/amandabee), and [Luke Waltzer](https://github.com/lwaltzer) for allowing me to adapt their previous iterations of this course.
+Thanks to [Matt Gold](https://github.com/mkgold), [Kevin L. Ferguson](https://github.com/klferguson/), [Amanda Hickman](https://github.com/amandabee), [Luke Waltzer](https://github.com/lwaltzer), and [Grant Wythoff](https://github.com/gwijthoff) for allowing me to adapt their previous iterations of this course.
 
 <!-- pandoc -o praxis_syllabus.pdf --template praxsyl.latex praxis_syllabus.md -->
