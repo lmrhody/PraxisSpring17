@@ -136,7 +136,7 @@ By the end of this class period, you should have a list of group members, respon
 Read/watch: 
 - [One Week | One Tool](http://oneweekonetool.org/) - Roy Rosenzweig Center for History and New Media
 - [And so it begins: day two of OWOT](http://openobjects.blogspot.com/2013/07/and-so-it-begins-day-two-of-owot.html) by Mia Ridge
-- [Day 3 of OWOT: Of Names and Stories and Gophers](http://www.briancroxall.net/2013/08/01/day-3-of-owot-of-names-and-stories-and-gophers/) by Brien Croxall
+- [Day 3 of OWOT: Of Names and Stories and Gophers](http://www.briancroxall.net/2013/08/01/day-3-of-owot-of-names-and-stories-and-gophers/) by Brian Croxall
 - [OWOT, day 4.](https://amrys.wordpress.com/2013/07/31/owot-day-4/) by Amrys O. Williams
 - [Final Refelctions from One Week One Tool: The Blur of Days 4-5](http://commons.trincoll.edu/jackdougherty/category/one-week-one-tool/) by Jack Doughterty
 
