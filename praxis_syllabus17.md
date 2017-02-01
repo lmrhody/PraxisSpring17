@@ -111,8 +111,8 @@ Guest instructor: Jason Rhody
 In class: Evaluating and refining project proposals. Prepare to workshop project proposals on blog in light of the following articles.
 - [NEH Proposal Evaluation Process](https://www.neh.gov/grants/application-process)
 - [Evaluating Collaborative Digital Scholarship (or, Where Credit is Due)](http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/) by Bethany Nowviskie
-- [How to Evaluate Digital Scholarship](http://journalofdigitalhumanities.org/1-4/how-to-evaluate-digital-scholarship-by-todd-presner/)
-- [Short Guide to Evaluation of Digital Work](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
+- [How to Evaluate Digital Scholarship](http://journalofdigitalhumanities.org/1-4/how-to-evaluate-digital-scholarship-by-todd-presner/) by Todd Presner
+- [Short Guide to Evaluation of Digital Work](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/) by Geoffrey Rockwell
 
 
 No Class| February 15
@@ -132,11 +132,12 @@ In class: Project results, group formation, group roles, and collaborator agreem
 By the end of this class period, you should have a list of group members, responsibilities, and an agreement for modes of communication and meeting deadlines.
 
 Read/watch: 
-- [One Week | One Tool](http://oneweekonetool.org/)
-- [And so it begins: day two of OWOT](http://openobjects.blogspot.com/2013/07/and-so-it-begins-day-two-of-owot.html)
-- [Day 3 of OWOT: Of Names and Stories and Gophers](http://www.briancroxall.net/2013/08/01/day-3-of-owot-of-names-and-stories-and-gophers/)
-- [OWOT, day 4.](https://amrys.wordpress.com/2013/07/31/owot-day-4/)
-- [Final Refelctions from One Week One Tool: The Blur of Days 4-5](http://commons.trincoll.edu/jackdougherty/category/one-week-one-tool/)
+- [One Week | One Tool](http://oneweekonetool.org/) - Roy Rosenzweig Center for History and New Media
+- [And so it begins: day two of OWOT](http://openobjects.blogspot.com/2013/07/and-so-it-begins-day-two-of-owot.html) by Mia Ridge
+- [Day 3 of OWOT: Of Names and Stories and Gophers](http://www.briancroxall.net/2013/08/01/day-3-of-owot-of-names-and-stories-and-gophers/) by Brien Croxall
+- [OWOT, day 4.](https://amrys.wordpress.com/2013/07/31/owot-day-4/) by Amrys O. Williams
+- [Final Refelctions from One Week One Tool: The Blur of Days 4-5](http://commons.trincoll.edu/jackdougherty/category/one-week-one-tool/) by Jack Doughterty
+
 
 Week 4 | March 1
 ---------------------
