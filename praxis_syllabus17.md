@@ -21,6 +21,8 @@ MALS 75500 | IDS 81640
 
 **Course repository: <https://github.com/lmrhody/PraxisSpring17/>**
 
+**This syllabus: <http://cuny.is/dps17>**
+
 * * * * * 
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This syllabus is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
@@ -45,7 +47,7 @@ Students will...
 - plan and produce a digital humanities project that includes a revised proposal, data management plan, prototype, and scholarly outreach;
 - develop scholarly collaboration skills (ie leadership, consensus building, joint evaluation, resource sharing) by working with a peer cohort to produce group project prototypes;
 - describe individual scholarly contributions to the cohort's collective effort;
-- justify key technical, scholarly, and interpersonal decisions through team-based lab journals, public blogging on our course site, and oral presentations;
+- justify key technical, scholarly, and interpersonal decisions especially as they relate to humanistic values through team-based lab journals, public blogging on our course site, and oral presentations;
 - identify and aquire necessary new skills independently.
 
 Requirements and Structure
