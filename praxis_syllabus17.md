@@ -11,13 +11,12 @@ MALS 75500 | IDS 81640
 
 - <lrhody@gc.cuny.edu>
 - [@lmrhody](https://twitter.com/lmrhody)
-- [About](http://lisarhody.net/)
+- Office hours: Wednesday 3:15 - 4:15
 
 **Course blog: <https://dhpraxis16.commons.gc.cuny.edu/>**
-
 **Course group: <https://commons.gc.cuny.edu/groups/digital-praxis-seminar-2016-2017/>**
-
 **Course hastag: #dhpraxis**
+**Course repository: <https://github.com/lmrhody/PraxisSpring17/>**
 
 * * * * * 
 
@@ -228,6 +227,11 @@ Week 15 | May 17
 ---------------------
 
 Public project launch.
+
+Week 16 | May 24
+----------------------
+
+**Final group projects and individual reflections due.**
 
 Acknowledgements
 =================
