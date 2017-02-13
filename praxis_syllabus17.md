@@ -145,7 +145,15 @@ Read/watch:
 Week 4 | March 1
 ---------------------
 
-Due midnight Sunday: Group project update posted to Commons blog or your project blog, personal journals.
+**Due midnight Sunday:** 
+- Revised Project Workplans: Each group needs to review their workplan and deadlines, assign/choose tasks, and post a revised project workplan. Each workplan should include the following: 
+-- A list of tasks and the dates they are due
+-- A person responsible for each task
+-- The name of each team member associated with a role for each project
+-- A description of the agreed upon workflow (mode of correspondence, where the data will live, where the site will go, regular group meeting dates, ways to ask for help)
+
+Due by class: 
+- personal journal: What is your role on the project? What will be challenging for you? What skills will you need to learn and/or improve upon? What is your plan for doing so? What intellectual or scholarly stake do you have in the project? What are you looking forward to?
 
 In class: Identifying existing resources and project needs. Create actionable steps to fill project gaps. 
 
@@ -155,28 +163,37 @@ Project presentations: All projects.
 Week 5 | March 8
 ---------------------
 
-Due midnight Sunday: Group blog post on selected platform, technology, and/or dataset choices + journal entries.
+Due midnight Sunday: Group blog post on data types, project resources, content
+journal entries.
+
+Due Wednesday: Individual post on how data management plans can help improve your own research practices. 
 
 In class: Collaborative group work. Data management, storage, and sharing practices. 
 - [NEH sample data management plans](https://www.neh.gov/divisions/odh/grant-news/data-management-plans-successful-grant-applications-2011-2014-now-available)
 - [Data Management Planning Tool](https://dmptool.org/)
+- Draft data management plan
 
-Project presentations: All projects.
+Project presentations: All projects discuss data management plans.
 
 
 Week 6 | March 15
 ---------------------
 
-Due midnight Sunday: Group blog data management plan draft + journal entries.
+Due midnight Sunday: Group data management plans
 
-In class: Collaborative project work and consultation.
+Due Wednesday: Individual 1-2 paragraph biographical and research statements that answer questions such as: who are you? what is your academic background? what are your research interests? what are your responsibilities on your project? 
 
-Project presentations:
+In class: Outreach and Scholarly Communication
+- [Outreach and Publicity](http://mallhistory.org/Guide/outreach-and-publicity/) - from Histories of the National Mall
+- [Social Media for Digital Projects](http://digitalhumanities.berkeley.edu/resources/social-media-scholarly-projects) 
+- [Chosing a platform for your Digital Project](http://digitalhumanities.berkeley.edu/resources/choosing-platform-your-project-website)
+
+Project presentations: Outreach and Scholarly Communication Plan
 
 Week 7 | March 22
 ---------------------
 
-Due midnight Sunday: Group blog + journal entries.
+Due midnight Sunday: Project website draft + journal entries.
 
 In class: Collaborative project work and consultation.
 
