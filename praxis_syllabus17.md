@@ -128,12 +128,13 @@ Due midnight: blog post with revised project proposals and/or reflections on dig
 Week 3 | February 22
 ---------------------
 
-Due midnight Sunday: rank project proposals, personal journal entries. 
+Due midnight Sunday: rank project proposals, personal journal entries (NYCDH Week reflections). 
 
 In class: Project results, group formation, group roles, and collaborator agreement.
 By the end of this class period, you should have a list of group members, responsibilities, and an agreement for modes of communication and meeting deadlines.
 
 Read/watch: 
+- Rockwell's [Quick Guide to Working in Teams](http://philosophi.ca/pmwiki.php/Main/QuickGuideToWorkingInTeams) - Geoffrey Rockwell
 - [One Week | One Tool](http://oneweekonetool.org/) - Roy Rosenzweig Center for History and New Media
 - [And so it begins: day two of OWOT](http://openobjects.blogspot.com/2013/07/and-so-it-begins-day-two-of-owot.html) by Mia Ridge
 - [Day 3 of OWOT: Of Names and Stories and Gophers](http://www.briancroxall.net/2013/08/01/day-3-of-owot-of-names-and-stories-and-gophers/) by Brian Croxall
