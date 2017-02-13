@@ -193,11 +193,11 @@ Project presentations: Outreach and Scholarly Communication Plan
 Week 7 | March 22
 ---------------------
 
-Due midnight Sunday: Project website draft + journal entries.
+Due midnight Sunday: Project website draft (basic landing page, about page--methods) and social media) + journal entries.
 
 In class: Collaborative project work and consultation.
 
-Project presentations:
+Project progress reports
 
 Week 8 | March 29
 ---------------------
@@ -206,7 +206,7 @@ Due midnight Sunday: Group blog + journal entries.
 
 In class: Collaborative project work and consultation.
 
-Project presentations:
+Project updates: Are you hitting your milestones? Why or why not? What adjustments have you made? 
 
 Week 9 | April 5
 ---------------------
@@ -215,44 +215,48 @@ Due midnight Sunday: Group blog + journal entries.
 
 In class: Collaborative project work and consultation.
 
-Project presentations:
+Project updates: Are you hitting your milestones? Why or why not? What adjustments have you made? 
 
-Week 10 | April 12
+April 12
+---------------------
+
+**No class: Spring Break**
+
+Week 10 | April 19
 ---------------------
 
 Due midnight Sunday: Group blog + journal entries.
 
 In class: Collaborative project work and consultation.
 
-Project presentations:
+Project updates: Are you hitting your milestones? Why or why not? What adjustments have you made? 
 
-Week 11 | April 19
+Week 11 | April 26
 ---------------------
 
 Due midnight Sunday: Group blog + journal entries.
 
 In class: Collaborative project work and consultation.
 
-Project presentations (x2):
+Project updates: Are you hitting your milestones? Why or why not? What adjustments have you made? 
 
-**No class on April 26, spring break**
 
-Week 13 | May 3
+Week 12 | May 3
 ---------------------
 
 T-minus one week.
 
-Week 14 | May 10
+Week 13 | May 10
 ---------------------
 
 Project launch dress rehearsal.
 
-Week 15 | May 17
+Week 14 | May 17
 ---------------------
 
 **Public project launch at the GC Digital Showcase.**
 
-Week 16 | May 24
+Week 15 | May 24
 ----------------------
 
 **Final group projects and individual reflections due.**
