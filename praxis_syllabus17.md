@@ -188,6 +188,17 @@ In class: Outreach and Scholarly Communication
 - [Social Media for Digital Projects](http://digitalhumanities.berkeley.edu/resources/social-media-scholarly-projects) 
 - [Chosing a platform for your Digital Project](http://digitalhumanities.berkeley.edu/resources/choosing-platform-your-project-website)
 
+Other materials to consider: 
+- [HathiTrust Digital Library, Communications Working Group Charge](https://www.hathitrust.org/wg_communications_charge)
+- [Social Media for Scholarly Projects](http://digitalhumanities.berkeley.edu/resources/social-media-scholarly-projects)
+- [Hypothes.is](https://hypothes.is/)
+
+Who/Where are your audiences? 
+- [Digital Humanities Now](http://digitalhumanitiesnow.org/)
+- [dh+lib](http://acrl.ala.org/dh/)
+- [DH Slack - via Amanda Visconti](http://literaturegeek.com/2016/07/06/digital-humanities-slack-community-design)
+
+
 Project presentations: Outreach and Scholarly Communication Plan
 
 Week 7 | March 22
